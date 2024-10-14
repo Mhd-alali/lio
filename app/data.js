@@ -17,7 +17,6 @@ export const data = [
             '/4/12.webp',
             '/4/13.webp',
             '/4/14.webp',
-            '/4/1.webp',
         ]
     },
     {
