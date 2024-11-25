@@ -3,6 +3,8 @@ export const data = [
     {
         title:"books covers",
         images: [
+            '/4/17.webp',
+            '/4/16.webp',
             '/4/1.webp',
             '/4/2.webp',
             '/4/3.webp',
